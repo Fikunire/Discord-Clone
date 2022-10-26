@@ -1,0 +1,70 @@
+body {
+    background-image: url(https://camo.githubusercontent.com/6e3512aad500ac5a961d6593980af6318f3b45ee1cc2e1907488a71646e814b1/68747470733a2f2f6d776974747269656e2e6769746875622e696f2f426574746572446973636f72644164646f6e732f5468656d65732f42617369634261636b67726f756e642f5f7265732f73637265656e73686f74332e706e67);
+    background-size: cover;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.black-box {
+    display: flex;
+    background-color: rgb(54, 57, 62);
+    width: 50%;
+    margin: 140px auto;
+    padding: 30px;
+    border-radius: 5px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+}
+
+h1 {
+    color: white;
+}
+
+p {
+    color: rgb(138, 140, 144);
+    font-size: 15px;
+}
+
+label {
+    color: rgb(164, 166, 170);
+    font-size: 12px;
+    font-weight: bolder;
+}
+
+label span {
+    color: rgb(227, 67, 63);
+}
+
+a {
+    color: rgb(64, 148, 197);
+    text-decoration: none;
+    font-size: 15px;
+}
+
+input {
+    width: 10cm;
+    height: 1cm;
+    display: block;
+    background-color: rgb(32, 34, 37);
+    border-radius: 5px;
+    border: none;
+    margin-top: 5px;
+}
+
+button {
+    width: 10cm;
+    background-color: rgb(81, 105, 233);
+    height: 1cm;
+    border-radius: 5px;
+    border: none;
+    color: white;
+    font-weight: bolder;
+}
+
+.qr-code-part {
+    text-align: center;
+    padding-left: 50px;
+    margin: auto 0;
+}
+
+.code {
+    color: rgb(0, 167, 98);
+}
